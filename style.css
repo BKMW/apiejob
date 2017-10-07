@@ -1,0 +1,42 @@
+.connexion {
+	background-image: url(images/page11_13.png);
+}
+.titre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+}
+.ecriture {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+}
+.c1 {
+	background-image: url(images/page2_13.png);
+}
+.c2 {
+	background-image: url(images/page2_15.png);
+}
+.c3 {
+	background-image: url(images/page2_17.png);
+}
+.liste {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.formulaire {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #1B82B0;
+}
+.titre_cadre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+}
